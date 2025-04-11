@@ -41,8 +41,3 @@ The following EDA techniques were applied to understand the dataset:
 
 This analysis serves as a demonstration of data visualization techniques for exploring relationships in diamond pricing and characteristics. The code and methodology can be adapted for similar datasets or extended for more advanced analysis.
 
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1744347726/user_uploads/vnimiAeuxAKpwBI/image.jpg
-
----
-Answer from Perplexity: pplx.ai/share
