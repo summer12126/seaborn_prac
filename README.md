@@ -1,5 +1,3 @@
-# seaborn_prac
-
 # Diamond Dataset Exploratory Data Analysis
 
 ## Overview
